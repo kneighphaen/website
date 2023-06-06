@@ -2,7 +2,7 @@
     color: green;
 }
 
-.social_link{
+img.social_link{
     display: inline-block;
-    color: aqua
+    width: 64px;
 }

@@ -2,7 +2,19 @@
     color: green;
 }
 
-.social_link{
+div.social_link{
+    height:100px;
+    width:100px;
     display: inline-block;
-    width: 64px;
+}
+
+.social_link img{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+
+.social_link li{
+    list-style-type: none;
+    display: inline;
 }
